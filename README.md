@@ -39,6 +39,3 @@ A REST API built with Spring Boot for managing IT support tickets.
 |--------|----------|-------------|
 | POST | /api/tickets/{id}/comments | Add comment |
 | GET | /api/tickets/{id}/comments | Get comments |
-
-## 👨‍💻 Author
-Dhruv Kumar
